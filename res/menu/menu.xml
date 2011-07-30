@@ -2,5 +2,7 @@
 <menu
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:title="@string/itemPrefs" android:id="@+id/itemPrefs"></item>
+    <item android:id="@+id/itemServiceStart" android:title="@string/titleServiceStart"></item>
+    <item android:id="@+id/itemServiceStop" android:title="@string/titleServiceStop"></item>
     
 </menu>

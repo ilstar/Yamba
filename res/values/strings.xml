@@ -11,4 +11,6 @@
     <string name="titlePassword">Password</string>
     <string name="titleApiRoot">APIRoot</string>
     <string name="itemPrefs">Preference</string>
+    <string name="titleServiceStart">启动同步</string>
+    <string name="titleServiceStop">停止更新</string>
 </resources>
